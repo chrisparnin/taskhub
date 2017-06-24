@@ -1,4 +1,4 @@
-taskhive
+taskhub
 ========
 
 A collection of subject tasks.
